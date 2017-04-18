@@ -83,6 +83,8 @@
     <ClCompile Include="Dynamic_Scheduling.cpp" />
     <ClCompile Include="Guided_Scheduling.cpp" />
     <ClCompile Include="LastFirst_Private.cpp" />
+    <ClCompile Include="Vowel_Consonants.cpp" />
+    <ClCompile Include="Nested_Collapse.cpp" />
     <ClCompile Include="Runtime_Scheduling.cpp" />
     <ClCompile Include="Sample.cpp">
       <OpenMPSupport Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</OpenMPSupport>

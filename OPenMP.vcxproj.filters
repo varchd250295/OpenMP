@@ -51,5 +51,11 @@
     <ClCompile Include="Atomic_Sync.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Nested_Collapse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vowel_Consonants.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
